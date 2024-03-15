@@ -1,3 +1,3 @@
-from funcs import  function_summ
+from funcs import  function_sub
 
-print(function_summ())
+print(function_sub())
